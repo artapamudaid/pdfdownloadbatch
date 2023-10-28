@@ -1,0 +1,15 @@
+{
+    "name": "artatripamuda/generate-download-pdf-batch",
+    "description": "Generate pdfs as batch and then download it as zip file",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "artapamudaid"
+        }
+    ],
+    "require": {
+        "PHP": ">= 7.4",
+        "dompdf/dompdf": "^2.0"
+    }
+}
